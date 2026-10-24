@@ -1,4 +1,4 @@
-# mslinn_gem_template
+# mslinn_gem_template [![Gem Version](https://badge.fury.io/rb/mslinn_gem_template.svg)](https://badge.fury.io/rb/mslinn_gem_template)
 
 This is a reusable Ruby gem template.
 
